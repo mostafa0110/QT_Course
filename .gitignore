@@ -1,0 +1,26 @@
+# Qt Creator and CMake files
+CMakeLists.txt.user
+CMakeCache.txt
+CMakeFiles/
+*.cmake
+*.cbp
+
+# Build folders (covers any folder starting with 'build')
+build*/
+*build-*
+
+# Compiled Object files and Binaries
+*.o
+*.obj
+*.exe
+*.dll
+*.so
+*.dylib
+*.a
+
+# Qt specific
+*.moc
+*.rcc
+qrc_*.cpp
+moc_*.cpp
+ui_*.h

@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/car1.png</file>
+        <file>images/car2.png</file>
+        <file>images/car3.png</file>
+        <file>images/car4.png</file>
+        <file>images/car5.png</file>
+        <file>images/car6.png</file>
+        <file>qml/main.qml</file>
+        <file>qml/SplashScreen.qml</file>
+        <file>qml/Home.qml</file>
+        <file>qml/Gallery.qml</file>
+        <file>qml/About.qml</file>
+    </qresource>
+</RCC>
